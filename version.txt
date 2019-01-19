@@ -1,0 +1,6 @@
+hbase-2.0.4-bin
+hadoop-3.1.1
+
+hadoop dfsadmin -report
+127.0.0.1:50070
+127.0.0.1:8088
