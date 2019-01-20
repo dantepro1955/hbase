@@ -5,4 +5,5 @@ hadoop dfsadmin -report
 127.0.0.1:50070
 127.0.0.1:8088
 
+./hbase thrift start
 ./hbase-daemon.sh start thrift
